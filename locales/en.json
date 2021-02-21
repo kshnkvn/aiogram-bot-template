@@ -1,0 +1,16 @@
+{
+  "commands": {
+    "start": "Hello!"
+  },
+  "buttons": {
+    "about": "🚀 About",
+    "settings": "🔧 Settings",
+    "language": "🌏 Language",
+    "back": "⬅️ Back"
+  },
+  "texts": {
+    "undefined": "There are nothing yet!",
+    "settings": "🛠 <b>Settings</b>\n\nWhat do you want to change?",
+    "which_lang_setup": "🌏 <b>Change language</b>\n\n❗️ Please note that changing the language will not affect previous messages.\n\nPlease select your preferred language."
+  }
+}
